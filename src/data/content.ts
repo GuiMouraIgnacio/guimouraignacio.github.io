@@ -23,7 +23,7 @@ export interface SkillGroup {
 export const skills: SkillGroup[] = [
   {
     category: 'Languages & Frameworks',
-    skills: ['TypeScript', 'Node.js', 'React', 'React Native', 'Angular', 'Ionic'],
+    skills: ['TypeScript', 'Node.js', 'Next.js', 'React', 'React Native', 'Angular', 'Ionic'],
   },
   {
     category: 'Frontend',
