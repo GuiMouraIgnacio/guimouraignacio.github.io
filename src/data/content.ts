@@ -41,6 +41,10 @@ export const skills: SkillGroup[] = [
     category: 'Methodology',
     skills: ['Agile / Scrum', 'Code Review', 'Unit Testing', 'Jest'],
   },
+  {
+    category: 'AI',
+    skills: ['Claude Code', 'Cursor', 'Codex', 'n8n', 'Agent Orchestration'],
+  },
 ]
 
 export interface Game {
